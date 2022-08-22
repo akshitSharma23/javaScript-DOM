@@ -1,1 +1,1 @@
-# javaScript-DOM DRum Kit file
+# javaScript-DOM-jquery DRum Kit file
